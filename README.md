@@ -3,7 +3,7 @@
 An AI email writer with a **human in the loop**. Describe the email you need, review the AI's draft, ask for changes
 ("make it shorter", "change the dates"), and approve when it's right. Built with **LangGraph**, **Groq** and **Streamlit**.
 
-🔗 **Live demo:** _coming soon_
+   🔗 **Live demo:** [https://nidhi-email-assistant.streamlit.app](https://nidhi-email-assistant.streamlit.app/)
 
 ![App screenshot](assets/screenshot.png)
 
