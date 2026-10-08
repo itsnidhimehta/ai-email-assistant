@@ -1,0 +1,11 @@
+# secrets - never commit these
+.env
+.streamlit/secrets.toml
+
+# python / jupyter junk
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+venv/
+env/
+.venv/
